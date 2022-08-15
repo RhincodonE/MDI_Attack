@@ -1,0 +1,12 @@
+{
+  "dataset":{
+    "name":"CIFAR",
+    "img_path":"./Data/Cifar/original/train/imgs",
+    "train_file_path":"./Data/Cifar/original/train/label.txt",
+    "test_file_path":"./Data/Cifar/original/test/label.txt",
+    "img_type":"RGB",
+    "model_name":"GAN",
+    "n_classes":10,
+    "gpus":"0"
+  }
+}
